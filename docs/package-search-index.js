@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"jp.ac.uryukyu.ie.e195753"},{"l":"すべてのパッケージ","url":"allpackages-index.html"}]
