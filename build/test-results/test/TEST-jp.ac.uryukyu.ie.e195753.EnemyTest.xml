@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="jp.ac.uryukyu.ie.e195753.EnemyTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-12-23T04:31:03" hostname="mainnoair" time="0.033">
+  <properties/>
+  <testcase name="attack()" classname="jp.ac.uryukyu.ie.e195753.EnemyTest" time="0.033"/>
+  <system-out><![CDATA[テスト勇者のHPは10。攻撃力は5です。
+テストスライムのHPは6。攻撃力は3です。
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
